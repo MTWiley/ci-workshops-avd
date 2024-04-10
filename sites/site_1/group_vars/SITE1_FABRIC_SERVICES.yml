@@ -1,6 +1,6 @@
 # ---
 tenants:
-  - name: MY_FABRIC
+  - name: SITE1_FABRIC
     vrfs:
       - name: default
         svis:
