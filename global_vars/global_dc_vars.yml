@@ -73,8 +73,6 @@ banners:
     EOF
 
 # Sysloggit add .
-git commit -m 'add syslog'
-git push --set-upstream origin banner-syslog
 logging:
   vrfs:
     - name: default
