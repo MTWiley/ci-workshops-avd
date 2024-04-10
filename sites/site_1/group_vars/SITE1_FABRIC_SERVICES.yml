@@ -1,6 +1,6 @@
 # ---
 tenants:
-  - name: SITE1_FABRIC
+  - name: S1
     vrfs:
       - name: default
         svis:
