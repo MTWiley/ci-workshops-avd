@@ -4,6 +4,7 @@ SITE1:
     CVP:
       hosts:
         cvp:
+          ansible-host: st-louis-ci-workshops-12-7d9db75b-eos.topo.testdrive.arista.com
     SITE1_FABRIC:
       children:
         SITE1_SPINES:
