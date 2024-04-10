@@ -1,6 +1,6 @@
 ---
 tenants:
-  - name: MY_FABRIC
+  - name: WILEYS_FABRIC_2
     vrfs:
       - name: default
         svis:
