@@ -1,6 +1,7 @@
 name: Test the upcoming changes
 
 on:
+  workflow_dispatch:
   push:
     branches-ignore:
       - main
